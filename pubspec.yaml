@@ -98,6 +98,6 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-  #
+  # this is done
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
